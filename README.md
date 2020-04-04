@@ -25,6 +25,10 @@ I struggled with:
 
 These resources were very helpful:
 
+https://www.youtube.com/watch?v=2ZphE5HcQPQ
+
+https://www.youtube.com/watch?v=RBLIm5LMrmc
+
 ---
 
 > * Code refactored from [Traversy Media](https://www.youtube.com/watch?v=JaMCxVWtW58t)
