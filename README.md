@@ -11,30 +11,21 @@ Try the live demo [right here](https://ayseakyol.github.io/booklist-app/#), it l
 
 ## Notes
 
-Studying this project we learned about:
+Studying this project I learned about:
 
-* Dynamically setting classes
-* Using the `<audio>` tag and .wav assets
-* How the query selector can be used to easily interact with many elements
-* How milestones, labels & issues can help organize work ->
-  * user stories === milestones
-  * tasks === issues
-  * labels === what type of task it is
+* es6 classes
+* Using the constructor
+* Using static methods in classes
 
-We struggled with:
 
-* How to create the development strategy.  It was tricky to figure out that the `playHandler` can actually work without changing the `.played` class, once that was clear it was easier to create the _Keys Light Up_ user story.
-* We kept making mistakes with the `data-key` attributes and linking the wrong keys and sounds.
-* Merge Conflicts!  whoever invented these has no soul
-* Keeping track of all the branches and forks.  OMG, github is confusing
+I struggled with:
+
+* Seperating js files 
+
 
 These resources were very helpful:
 
-* [KeyBoard Event Values](https://css-tricks.com/snippets/javascript/javascript-keycodes/)
-* [gmlwjd9405/git-collaboration](https://github.com/gmlwjd9405/git-collaboration)
-* [GitHub Project Management](https://github.com/features/project-management)
-
 ---
 
-> * Code refactored from [Wes Bos](https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+> * Code refactored from [Traversy Media](https://www.youtube.com/watch?v=JaMCxVWtW58t)
 
