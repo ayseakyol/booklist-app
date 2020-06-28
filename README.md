@@ -18,10 +18,6 @@ Studying this project I learned about:
 * Using static methods in classes
 
 
-I struggled with:
-
-* Seperating js files 
-
 
 These resources were very helpful:
 
