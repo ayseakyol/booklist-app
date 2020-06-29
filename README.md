@@ -1,5 +1,4 @@
 # Booklist-App
-traversy media
 
 A static web page for rhythmic expression built with only HTML, CSS & JavaScript.
 
